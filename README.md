@@ -23,6 +23,13 @@ El sistema maneja dos entidades principales conectadas mediante restricciones de
 ---
 
 ## 🚀 Instalación y Configuración
+clona el repo en tu IDE(entorno de desarrollo integrado) mediante la terminal 
+
+git clone
+https://github.com/AJcosmer/SistemaPres.git
+
+luego accede al proyecto con
+cd SistemaPres
 
 ### 1. Base de Datos (Oracle APEX 21c)
 
