@@ -64,8 +64,4 @@ npm start
 
 5. Abre tu navegador e ingresa a `http://localhost:3000` para acceder a la aplicación web (el backend sirve los archivos estáticos del frontend integradamente).
 
----
 
-## 👤 Autor
-
-Desarrollado por **AJcosmer** para entrega académica.
