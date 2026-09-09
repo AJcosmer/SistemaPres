@@ -31,7 +31,6 @@ El sistema maneja dos entidades principales conectadas mediante restricciones de
 ### 2. Backend
 1. Navega a la carpeta del servidor:
 cd backend
-
 Instala las dependencias necesarias:
    npm install
 
@@ -43,7 +42,5 @@ DB_CONNECT_STRING=localhost:1521/XEPDB1
 
 Inicia el servidor(debes estar en la carpeta del backend)
 npm start
-
-1. Navega a la carpeta del servidor:
    ```bash
    cd backend
